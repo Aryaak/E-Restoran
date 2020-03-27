@@ -6,7 +6,7 @@
  
  ## Preview
  
- ![home](https://user-images.githubusercontent.com/55610152/77648254-68ac7200-6f9a-11ea-844c-62d3af35b3e7.png)
+ ![home](https://user-images.githubusercontent.com/55610152/77776663-f06cac00-7080-11ea-9df8-c0f2a11821ea.png)
  
  ## How to login admin page
  
